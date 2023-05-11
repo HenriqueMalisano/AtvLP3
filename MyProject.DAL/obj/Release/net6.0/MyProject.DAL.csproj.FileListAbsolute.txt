@@ -1,0 +1,17 @@
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\bin\Release\net6.0\MyProject.DAL.deps.json
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\bin\Release\net6.0\MyProject.DAL.runtimeconfig.json
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\bin\Release\net6.0\MyProject.DAL.dll
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\bin\Release\net6.0\MyProject.DAL.pdb
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\bin\Release\net6.0\MyProject.MODEL.dll
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\bin\Release\net6.0\MyProject.MODEL.pdb
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\MyProject.DAL.csproj.AssemblyReference.cache
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\MyProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\MyProject.DAL.AssemblyInfoInputs.cache
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\MyProject.DAL.AssemblyInfo.cs
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\MyProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\MyProject.DAL.csproj.CopyComplete
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\MyProject.DAL.dll
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\refint\MyProject.DAL.dll
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\MyProject.DAL.pdb
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\MyProject.DAL.genruntimeconfig.cache
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.DAL\obj\Release\net6.0\ref\MyProject.DAL.dll
