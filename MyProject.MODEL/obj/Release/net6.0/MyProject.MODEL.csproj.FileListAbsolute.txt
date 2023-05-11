@@ -1,0 +1,12 @@
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\bin\Release\net6.0\MyProject.MODEL.deps.json
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\bin\Release\net6.0\MyProject.MODEL.dll
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\bin\Release\net6.0\MyProject.MODEL.pdb
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\obj\Release\net6.0\MyProject.MODEL.csproj.AssemblyReference.cache
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\obj\Release\net6.0\MyProject.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\obj\Release\net6.0\MyProject.MODEL.AssemblyInfoInputs.cache
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\obj\Release\net6.0\MyProject.MODEL.AssemblyInfo.cs
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\obj\Release\net6.0\MyProject.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\obj\Release\net6.0\MyProject.MODEL.dll
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\obj\Release\net6.0\refint\MyProject.MODEL.dll
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\obj\Release\net6.0\MyProject.MODEL.pdb
+C:\Users\Henku\source\repos\Av2Projeto\MyProject.MODEL\obj\Release\net6.0\ref\MyProject.MODEL.dll
